@@ -1,0 +1,4 @@
+name: Vyouz Drupal 8 views extender
+description: 'This module adds views field(s) and filters'
+type: module
+core: 8.x
